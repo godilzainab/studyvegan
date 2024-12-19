@@ -1,0 +1,227 @@
+body
+{
+  margin: 0px;
+}
+
+.color:hover
+{
+  color: #235227;
+}
+
+
+#nav
+{
+  display: flex;
+  background-color: #C9D6CA;
+  justify-content: space-between;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+ 
+}
+#logo
+{
+  height: 50px;
+}
+#company-logo
+{
+  text-align: center;
+}
+p
+{
+  font-family: sans-serif;
+  color: #A1371B;
+  font-size: 20px;
+  margin: 0px;
+}
+.list
+{
+  color: #A1371B;
+  text-decoration: none;
+  font-size:25px;
+}
+
+#nav-1{
+  display: flex;
+  align-items: center;
+  width: 500px;
+  justify-content: space-evenly;
+}
+h1
+{
+  color:#235227;
+  text-align: center;
+  margin: 0px;
+  padding: 20px;
+  font-size: 50px;
+}
+#header
+{
+  background-color:#EDF5EE;
+  padding: 10%;
+}
+.Gallery
+{
+  font-size: 40px;
+  text-align: center;
+  color: #A1371B;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+#img
+{
+  height: 400px;
+  width: 450px;
+}
+#food
+{
+  text-align: center;
+  margin: 40px;
+}
+.p
+{
+  color: #A1371B;
+  text-align: center;
+  font-size: 50px;
+  padding: 20px;
+}
+hr{
+  width: 80%;
+  /* border: none; */
+  border-top: 2px dashed #A1371B;
+  ;
+}
+
+.round-house{
+  border: 4px solid #235227;
+  border-radius: 60px;
+  padding: 10px;
+  height: 50px;
+}
+
+#icon-image
+{
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 1fr 1fr 1fr;
+  justify-items: center; 
+  align-items: center;
+  width: 50%;
+  margin: 0px auto;
+  grid-gap: 40px;
+  padding-top: 40px;
+}
+
+.example{
+  display: inline;
+  font-size: 30px;
+  color: #235227;
+  /* margin-right: 20px; */
+}
+
+.image-text{
+  display: flex;
+  align-items: center;
+  width: 100%;
+  gap: 40px;
+}
+
+#India
+{
+  text-align: center;
+  color:#235227;
+  margin: 10px;
+  padding: 0px;
+}
+
+h2
+{
+  text-align: center;
+  color:#235227;
+  margin: 0px;
+}
+#first
+{
+  padding: 100px;
+}
+
+#img1
+{
+
+  height: 400px;
+  padding: 50px;
+}
+#img2
+{
+  text-align: center;
+ 
+}
+
+.para
+{
+  text-align: center;
+  color: #235227;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding: 20px;
+}
+.link
+{
+  color: #235227; 
+  font-size: 20px;
+ align-items: center;
+}
+.link:hover
+{
+  color: #A1371B;
+ 
+}
+
+#contact
+{
+  color: #A1371B;
+  
+}
+
+#p
+{
+  text-align: center;
+  color: #235227;
+}
+a{
+  color: #235227;
+}
+#footer
+{
+  color: #A1371B;
+  background-color: #C9D6CA;
+  text-align: center;
+  padding: 40px;
+}
+#nothing
+{
+  padding: 20px;
+}
+.flex
+{
+  
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+button
+{
+    justify-items: center;
+    height: 64px;
+}
+#rectangle{
+  /* width: 500px;
+  height: 500px; */
+  border: 7px solid  wheat;
+      
+}
+#img0
+{
+  height: 350px;
+  width: 350px;
+}
